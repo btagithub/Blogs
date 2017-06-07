@@ -5,10 +5,10 @@ description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "/jekyll-doc-theme-blog" # the subpath of your site, e.g. /blog/
-url: https://eyeofra.github.io/jekyll-doc-theme-blog # the base hostname & protocol for your site
-git_address: https://github.com/eyeofra/jekyll-doc-theme-blog
-git_edit_address: https://github.com/eyeofra/jekyll-doc-theme-blog/blob/gh-pages
+baseurl: "/Blogs" # the subpath of your site, e.g. /blog/
+url: https://eyeofra.github.io/Blogs # the base hostname & protocol for your site
+git_address: https://github.com/eyeofra/Blogs
+git_edit_address: https://github.com/eyeofra/Blogs/blob/gh-pages
 
 # Build settings
 markdown: kramdown
